@@ -1,95 +1,131 @@
 {
-    "count": 10,
+    "count": 14,
     "entries": [
         {
-            "API": "Aconex",
-            "Auth": null,
-            "CORS": "Unknown",
-            "Category": "BIM APIs",
+            "API": "3d io",
             "Description": "Description",
+            "Auth": null,
             "HTTPS": false,
-            "Link": "https://help.aconex.com/aconex/aconex-api"
+            "CORS": "Unknown",
+            "Link": "https://3d.io/docs/api/1/",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "3d Repo",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://3drepo.github.io/3drepo.io/",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Aconex",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://help.aconex.com/aconex/aconex-api",
+            "Category": "BIM APIs"
         },
         {
             "API": "Acuite",
-            "Auth": null,
-            "CORS": "Unknown",
-            "Category": "BIM APIs",
             "Description": "Description",
+            "Auth": null,
             "HTTPS": false,
-            "Link": "https://google.com"
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
         },
         {
             "API": "ArcGIS",
-            "Auth": null,
-            "CORS": "Unknown",
-            "Category": "BIM APIs",
             "Description": "Description",
+            "Auth": null,
             "HTTPS": false,
-            "Link": "https://developers.arcgis.com/web-api/"
+            "CORS": "Unknown",
+            "Link": "https://developers.arcgis.com/web-api/",
+            "Category": "BIM APIs"
         },
         {
             "API": "Archiplan",
-            "Auth": null,
-            "CORS": "Unknown",
-            "Category": "BIM APIs",
             "Description": "Description",
+            "Auth": null,
             "HTTPS": false,
-            "Link": "https://google.com"
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
         },
         {
             "API": "Areo",
-            "Auth": null,
-            "CORS": "Unknown",
-            "Category": "BIM APIs",
             "Description": "Description",
+            "Auth": null,
             "HTTPS": false,
-            "Link": "https://google.com"
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
         },
         {
             "API": "Asite",
-            "Auth": null,
-            "CORS": "Unknown",
-            "Category": "BIM APIs",
             "Description": "Description",
+            "Auth": null,
             "HTTPS": false,
-            "Link": "https://upload.asite.com/dmshelp/About_API.htm"
+            "CORS": "Unknown",
+            "Link": "https://upload.asite.com/dmshelp/About_API.htm",
+            "Category": "BIM APIs"
         },
         {
             "API": "Assemble",
-            "Auth": null,
-            "CORS": "Unknown",
-            "Category": "BIM APIs",
             "Description": "Description",
+            "Auth": null,
             "HTTPS": false,
-            "Link": "https://google.com"
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
         },
         {
             "API": "Asta Powerproject",
-            "Auth": null,
-            "CORS": "Unknown",
-            "Category": "BIM APIs",
             "Description": "Description",
+            "Auth": null,
             "HTTPS": false,
-            "Link": "https://google.com"
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
         },
         {
             "API": "Azuqua",
-            "Auth": null,
-            "CORS": "Unknown",
-            "Category": "BIM APIs",
             "Description": "Description",
+            "Auth": null,
             "HTTPS": false,
-            "Link": "https://google.com"
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
         },
         {
             "API": "Azure Active Directory SSO",
-            "Auth": null,
-            "CORS": "Unknown",
-            "Category": "BIM APIs",
             "Description": "Description",
+            "Auth": null,
             "HTTPS": false,
-            "Link": "https://google.com"
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Basestone",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://api.basestone.io/api/v1/",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Batiscript",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
         }
     ]
 }
