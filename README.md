@@ -10,6 +10,7 @@ Contributing guide is coming soon.
 ### BIM APIs
 API | Description | Auth | HTTPS | CORS | Link |
 |---|---|---|---|---|---|
+| 3d io | Description | No | No | Unknown | [Go!](https://3d.io/docs/api/1/) |
 | Aconex | Description | No | No | Unknown | [Go!](https://help.aconex.com/aconex/aconex-api) |
 | Acuite | Description | No | No | Unknown | [Go!](https://google.com) |
 | ArcGIS | Description | No | No | Unknown | [Go!](https://developers.arcgis.com/web-api/) |
