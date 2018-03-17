@@ -11,6 +11,7 @@ Contributing guide is coming soon.
 API | Description | Auth | HTTPS | CORS | Link |
 |---|---|---|---|---|---|
 | 3d io | Description | No | No | Unknown | [Go!](https://3d.io/docs/api/1/) |
+| 3d Repo | Description | No | No | Unknown | [Go!](https://3drepo.github.io/3drepo.io/) |
 | Aconex | Description | No | No | Unknown | [Go!](https://help.aconex.com/aconex/aconex-api) |
 | Acuite | Description | No | No | Unknown | [Go!](https://google.com) |
 | ArcGIS | Description | No | No | Unknown | [Go!](https://developers.arcgis.com/web-api/) |
