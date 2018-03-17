@@ -23,3 +23,5 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Azuqua | Description | No | No | Unknown | [Go!](https://google.com) |
 | Azure Active Directory SSO | Description | No | No | Unknown | [Go!](https://google.com) |
 | Basestone | Description | No | No | Unknown | [Go!](https://api.basestone.io/api/v1/) |
+| Batiscript | Description | No | No | Unknown | [Go!](https://google.com) |
+
