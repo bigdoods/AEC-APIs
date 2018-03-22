@@ -63,6 +63,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Drone Logbook | Description | No | No | Unknown | [Go!](https://google.com) |
 | Duraark | Description | No | No | Unknown | [Go!](https://google.com) |
 | Earth Cam | Description | No | No | Unknown | [Go!](https://google.com) |
+| EcoDomus | Description | No | No | Unknown | [Go!](http://ecodomus.com/products/bim-api/) |
 | Ebix | Description | No | No | Unknown | [Go!](https://google.com) |
 | Ei Dynamics | Description | No | No | Unknown | [Go!](https://google.com) |
 | Esri | Description | No | No | Unknown | [Go!](https://google.com) |
@@ -102,6 +103,8 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Mobius | Description | No | No | Unknown | [Go!](https://google.com) |
 | Modelo | Description | No | No | Unknown | [Go!](https://google.com) |
 | Multivista | Description | No | No | Unknown | [Go!](https://google.com) |
+| MyCOI | Description | No | No | Unknown | [Go!](https://google.com) |
+| MyComply | Description | No | No | Unknown | [Go!](https://google.com) |
 | Netmail | Description | No | No | Unknown | [Go!](https://google.com) |
 | Newforma | Description | No | No | Unknown | [Go!](https://google.com) |
 | Note Vault | Description | No | No | Unknown | [Go!](https://google.com) |
@@ -147,12 +150,10 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Touchplan.io | Description | No | No | Unknown | [Go!](https://google.com) |
 | Trimble connect | Description | No | No | Unknown | [Go!](https://google.com) |
 | Truelook | Description | No | No | Unknown | [Go!](https://google.com) |
+| UCOREM | Description | No | No | Unknown | [Go!](https://google.com) |
 | VR BIM | Description | No | No | Unknown | [Go!](https://google.com) |
 | Viewpoint Vista | Description | No | No | Unknown | [Go!](https://google.com) |
 | Voxer | Description | No | No | Unknown | [Go!](https://google.com) |
 | Voyage Control | Description | No | No | Unknown | [Go!](https://google.com) |
 | YouBIM | Description | No | No | Unknown | [Go!](https://google.com) |
 | Zutec | Description | No | No | Unknown | [Go!](https://google.com) |
-| MyCOI | Description | No | No | Unknown | [Go!](https://google.com) |
-| MyComply | Description | No | No | Unknown | [Go!](https://google.com) |
-| UCOREM | Description | No | No | Unknown | [Go!](https://google.com) |
