@@ -43,7 +43,7 @@ def main():
         anchor = '###'
     else:
         anchor = sys.argv[2]
-    print(markdown_to_json('README.md', anchor))
+    print(markdown_to_json(sys.argv[1], anchor))
 
 
 if __name__ == "__main__":
