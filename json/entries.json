@@ -1,5 +1,5 @@
 {
-    "count": 14,
+    "count": 146,
     "entries": [
         {
             "API": "3d io",
@@ -120,6 +120,1194 @@
         },
         {
             "API": "Batiscript",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "BIM Anywhere",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "BIM Data",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": true,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "BIM Excellence",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "BIM Hub",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "BIM Object",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "BIM Plus",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://doc.bimplus.net/display/bimpluspublic/Introduction",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "BIM Server",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "BIM Store",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "http://developer.bimstore.co.uk/",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "BIM Sync",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://bimsync.com/developers",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "BIM Toolkit",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "BIM Trace",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "BIM Track",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Bluebeam",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://developers.bluebeam.com/articles/getting-started/",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Bolt",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Bosch MeasureON",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Botlink",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Box",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Bridgit",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Build Up",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Building Connected",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Busybusy",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Capital Construction",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Cl3ver",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Clara",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Clear Path GPS",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "CoBuilder",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Computer Ease",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Cosential",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Crowdkeep",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Damas",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Data dictionary",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Dexter and Chaney Spectrum",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Docusign",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Domo",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Drone Deploy",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Drone Logbook",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Duraark",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Earth Cam",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Ebix",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "EcoDomus",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "http://ecodomus.com/products/bim-api/",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Ei Dynamics",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Esri",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Eyrus",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "FC Background",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Fieldview",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Fieldwire",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "FinalCAD",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "FinalCAD",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Flux",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "FME",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Forge - BIM360",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Forge - Data Management",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Forge - Design Automation",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Forge - Model Derivative",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Forge - Oauth",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Forge - Reality Capture",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Forge - Webhook",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "FTQ360",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Gemain",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Geniebelt",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "GoBIM",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Hangar Job Sight",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Highrise",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Hydra",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Intelliwave",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "ISqFt",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Jamf",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Joist",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "KO Punchlist",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Lienwaivers.io",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Matterport",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Maximo",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Microsoft Project",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Mobius",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Modelo",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "MRI by Calence",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "MTG Frameworks",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Multivista",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "MyCOI",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "MyComply",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Netmail",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Newforma",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Note Vault",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Novade",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Okta SSO",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "On Target",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "One Login SSO",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Oneteam",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Onshape",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Openmaint",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Ordnance Survey",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "OxBlue",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Packhunt",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Pantera tools",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "PAT",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Primavera",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Prism",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Procore",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "ProEst",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "PROLINK",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Pronovos",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Pype",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Quartz",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Raken",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Relatics",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Rendra",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Safety Meeting App",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Seed",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Sensera",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Shapediver",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Sharepoint - Hinge Point",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "SimulationHub",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Site Diary",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "SiteAware",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "SmartBid",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Smartvid.io",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Speckle",
+            "Description": "API",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Spot-r",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "StructionSite",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "TheBIMportal",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "TonicDM",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "TopBuilder",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Touchplan.io",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Trimble connect",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Truelook",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "UCOREM",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Viewpoint Vista",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Voxer",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Voyage Control",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "VR BIM",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "YouBIM",
+            "Description": "Description",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://google.com",
+            "Category": "BIM APIs"
+        },
+        {
+            "API": "Zutec",
             "Description": "Description",
             "Auth": null,
             "HTTPS": false,
