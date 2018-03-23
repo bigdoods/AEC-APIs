@@ -1,7 +1,7 @@
 # AEC-APIs
 A collective list of APIs for web development in the AEC industries. 
 
-A user friendly view for the APIs can be [found here].(http://aec-apis-app.user.project.bimlauncher.com/)
+A user friendly view for the APIs can be [found here](http://aec-apis-app.user.project.bimlauncher.com/)
 
 Contributing guide is coming soon.
 
