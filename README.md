@@ -29,14 +29,13 @@ API | Description | Auth | HTTPS | CORS | Link |
 | BIM Excellence | Description | No | No | Unknown | [Go!](https://google.com) |
 | BIM Hub | Description | No | No | Unknown | [Go!](https://google.com) |
 | BIM Object | Description | No | No | Unknown | [Go!](https://google.com) |
+| BIM Plus | Description | No | No | Unknown | [Go!](https://doc.bimplus.net/display/bimpluspublic/Introduction) |
 | BIM Server | Description | No | No | Unknown | [Go!](https://google.com) |
 | BIM Store | Description | No | No | Unknown | [Go!](http://developer.bimstore.co.uk/) |
 | BIM Sync | Description | No | No | Unknown | [Go!](https://bimsync.com/developers) |
 | BIM Toolkit | Description | No | No | Unknown | [Go!](https://google.com) |
 | BIM Trace | Description | No | No | Unknown | [Go!](https://google.com) |
 | BIM Track | Description | No | No | Unknown | [Go!](https://google.com) |
-| BIM Plus | Description | No | No | Unknown | [Go!](https://doc.bimplus.net/display/bimpluspublic/Introduction) |
-| BIMer | Description | No | No | Unknown | [Go!](https://google.com) |
 | Bluebeam | Description | No | No | Unknown | [Go!](https://developers.bluebeam.com/articles/getting-started/) |
 | Bolt | Description | No | No | Unknown | [Go!](https://google.com) |
 | Bosch MeasureON | Description | No | No | Unknown | [Go!](https://google.com) |
@@ -63,8 +62,8 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Drone Logbook | Description | No | No | Unknown | [Go!](https://google.com) |
 | Duraark | Description | No | No | Unknown | [Go!](https://google.com) |
 | Earth Cam | Description | No | No | Unknown | [Go!](https://google.com) |
-| EcoDomus | Description | No | No | Unknown | [Go!](http://ecodomus.com/products/bim-api/) |
 | Ebix | Description | No | No | Unknown | [Go!](https://google.com) |
+| EcoDomus | Description | No | No | Unknown | [Go!](http://ecodomus.com/products/bim-api/) |
 | Ei Dynamics | Description | No | No | Unknown | [Go!](https://google.com) |
 | Esri | Description | No | No | Unknown | [Go!](https://google.com) |
 | Eyrus | Description | No | No | Unknown | [Go!](https://google.com) |
@@ -122,8 +121,8 @@ API | Description | Auth | HTTPS | CORS | Link |
 | PAT | Description | No | No | Unknown | [Go!](https://google.com) |
 | Primavera | Description | No | No | Unknown | [Go!](https://google.com) |
 | Prism | Description | No | No | Unknown | [Go!](https://google.com) |
-| ProEst | Description | No | No | Unknown | [Go!](https://google.com) |
 | Procore | Description | No | No | Unknown | [Go!](https://google.com) |
+| ProEst | Description | No | No | Unknown | [Go!](https://google.com) |
 | PROLINK | Description | No | No | Unknown | [Go!](https://google.com) |
 | Pronovos | Description | No | No | Unknown | [Go!](https://google.com) |
 | Pype | Description | No | No | Unknown | [Go!](https://google.com) |
