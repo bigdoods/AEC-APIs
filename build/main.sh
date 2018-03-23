@@ -1,14 +1,14 @@
 #!/bin/bash
 
-FORMAT_FILE=../README.md
+FORMAT_FILE=README.md
 echo "running format validation..."
-./validate_format.py $FORMAT_FILE
+./build/validate_format.py $FORMAT_FILE
 if [[ $? != 0 ]]; then
     echo "format validation failed!"
     exit 1
 fi
 echo "format validation passed!"
-./build.sh
+./build/build.sh
 if [[ $? != 0 ]]; then
     echo "JSON build failed!"
 else
@@ -46,7 +46,7 @@ else
 fi
 
 echo "running link validation..."
-./validate_links.py $LINK_FILE
+./build/validate_links.py $LINK_FILE
 if [[ $? != 0 ]]; then
     echo "link validation failed!"
     exit 1
