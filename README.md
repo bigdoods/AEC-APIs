@@ -1,7 +1,9 @@
 # AEC-APIs
-A collective list of APIs for web development in the AEC industries. 
+A collective list of APIs for web development in the Architecture Engineering Construction and Operations industries. 
 
 A user friendly view for the APIs can be [found here].(http://aec-apis-app.user.project.bimlauncher.com/)
+
+The purpose of the repository is to provide developers with a resource to view industry specific APIs in one place. 
 
 Contributing guide is coming soon.
 
@@ -15,77 +17,37 @@ API | Description | Auth | HTTPS | CORS | Link |
 | 3d io | Description | No | No | Unknown | [Go!](https://3d.io/docs/api/1/) |
 | 3d Repo | Description | No | No | Unknown | [Go!](https://3drepo.github.io/3drepo.io/) |
 | Aconex | Description | No | No | Unknown | [Go!](https://help.aconex.com/aconex/aconex-api) |
-| Acuite | Description | No | No | Unknown | [Go!](https://google.com) |
 | ArcGIS | Description | No | No | Unknown | [Go!](https://developers.arcgis.com/web-api/) |
-| Archiplan | Description | No | No | Unknown | [Go!](https://google.com) |
-| Areo | Description | No | No | Unknown | [Go!](https://google.com) |
 | Asite | Description | No | No | Unknown | [Go!](https://upload.asite.com/dmshelp/About_API.htm) |
-| Assemble | Description | No | No | Unknown | [Go!](https://google.com) |
-| Asta Powerproject | Description | No | No | Unknown | [Go!](https://google.com) |
-| Azuqua | Description | No | No | Unknown | [Go!](https://google.com) |
-| Azure Active Directory SSO | Description | No | No | Unknown | [Go!](https://google.com) |
 | Basestone | Description | No | No | Unknown | [Go!](https://api.basestone.io/api/v1/) |
-| Batiscript | Description | No | No | Unknown | [Go!](https://google.com) |
-| BIM Anywhere | Description | No | No | Unknown | [Go!](https://google.com) |
-| BIM Data | Description | No | Yes | Unknown | [Go!](https://google.com) |
+| BIM Data | Description | No | Yes | Unknown | [Go!](https://api.bimdata.io/api/doc) |
 | BIM Excellence | Description | No | No | Unknown | [Go!](https://google.com) |
-| BIM Hub | Description | No | No | Unknown | [Go!](https://google.com) |
-| BIM Object | Description | No | No | Unknown | [Go!](https://google.com) |
+| BIM Object | Description | No | No | Unknown | [Go!](https://developer.bimobject.com/) |
 | BIM Plus | Description | No | No | Unknown | [Go!](https://doc.bimplus.net/display/bimpluspublic/Introduction) |
-| BIM Server | Description | No | No | Unknown | [Go!](https://google.com) |
+| BIM Server | Description | No | No | Unknown | [Go!](https://github.com/opensourceBIM/BIMserver/wiki/JSON-API) |
 | BIM Store | Description | No | No | Unknown | [Go!](http://developer.bimstore.co.uk/) |
 | BIM Sync | Description | No | No | Unknown | [Go!](https://bimsync.com/developers) |
-| BIM Toolkit | Description | No | No | Unknown | [Go!](https://google.com) |
-| BIM Trace | Description | No | No | Unknown | [Go!](https://google.com) |
-| BIM Track | Description | No | No | Unknown | [Go!](https://google.com) |
+| BIM Toolkit | Description | No | No | Unknown | [Go!](https://toolkit-api.thenbs.com/) |
+| BIM Track | Description | No | No | Unknown | [Go!](http://bimtrack.co/en/resources/api) |
 | Bluebeam | Description | No | No | Unknown | [Go!](https://developers.bluebeam.com/articles/getting-started/) |
-| Bolt | Description | No | No | Unknown | [Go!](https://google.com) |
-| Bosch MeasureON | Description | No | No | Unknown | [Go!](https://google.com) |
-| Botlink | Description | No | No | Unknown | [Go!](https://google.com) |
-| Box | Description | No | No | Unknown | [Go!](https://google.com) |
-| Bridgit | Description | No | No | Unknown | [Go!](https://google.com) |
-| Build Up | Description | No | No | Unknown | [Go!](https://google.com) |
-| Building Connected | Description | No | No | Unknown | [Go!](https://google.com) |
-| Busybusy | Description | No | No | Unknown | [Go!](https://google.com) |
-| Capital Construction | Description | No | No | Unknown | [Go!](https://google.com) |
-| Cl3ver | Description | No | No | Unknown | [Go!](https://google.com) |
-| Clara | Description | No | No | Unknown | [Go!](https://google.com) |
-| Clear Path GPS | Description | No | No | Unknown | [Go!](https://google.com) |
-| CoBuilder | Description | No | No | Unknown | [Go!](https://google.com) |
-| Computer Ease | Description | No | No | Unknown | [Go!](https://google.com) |
-| Cosential | Description | No | No | Unknown | [Go!](https://google.com) |
-| Crowdkeep | Description | No | No | Unknown | [Go!](https://google.com) |
-| Damas | Description | No | No | Unknown | [Go!](https://google.com) |
-| Data dictionary | Description | No | No | Unknown | [Go!](https://google.com) |
-| Dexter and Chaney Spectrum | Description | No | No | Unknown | [Go!](https://google.com) |
-| Docusign | Description | No | No | Unknown | [Go!](https://google.com) |
-| Domo | Description | No | No | Unknown | [Go!](https://google.com) |
-| Drone Deploy | Description | No | No | Unknown | [Go!](https://google.com) |
-| Drone Logbook | Description | No | No | Unknown | [Go!](https://google.com) |
-| Duraark | Description | No | No | Unknown | [Go!](https://google.com) |
-| Earth Cam | Description | No | No | Unknown | [Go!](https://google.com) |
-| Ebix | Description | No | No | Unknown | [Go!](https://google.com) |
-| EcoDomus | Description | No | No | Unknown | [Go!](http://ecodomus.com/products/bim-api/) |
-| Ei Dynamics | Description | No | No | Unknown | [Go!](https://google.com) |
-| Esri | Description | No | No | Unknown | [Go!](https://google.com) |
-| Eyrus | Description | No | No | Unknown | [Go!](https://google.com) |
-| FC Background | Description | No | No | Unknown | [Go!](https://google.com) |
-| Fieldview | Description | No | No | Unknown | [Go!](https://google.com) |
-| Fieldwire | Description | No | No | Unknown | [Go!](https://google.com) |
-| FinalCAD | Description | No | No | Unknown | [Go!](https://google.com) |
-| FinalCAD | Description | No | No | Unknown | [Go!](https://google.com) |
-| Flux | Description | No | No | Unknown | [Go!](https://google.com) |
-| FME | Description | No | No | Unknown | [Go!](https://google.com) |
-| Forge - BIM360 | Description | No | No | Unknown | [Go!](https://google.com) |
-| Forge - Data Management | Description | No | No | Unknown | [Go!](https://google.com) |
-| Forge - Design Automation | Description | No | No | Unknown | [Go!](https://google.com) |
-| Forge - Model Derivative | Description | No | No | Unknown | [Go!](https://google.com) |
-| Forge - Oauth | Description | No | No | Unknown | [Go!](https://google.com) |
-| Forge - Reality Capture | Description | No | No | Unknown | [Go!](https://google.com) |
-| Forge - Webhook | Description | No | No | Unknown | [Go!](https://google.com) |
-| FTQ360 | Description | No | No | Unknown | [Go!](https://google.com) |
-| Gemain | Description | No | No | Unknown | [Go!](https://google.com) |
-| Geniebelt | Description | No | No | Unknown | [Go!](https://google.com) |
+| Bosch MeasureON | Description | No | No | Unknown | [Go!](https://developer.bosch.com/) |
+| Building Connected | Description | No | No | Unknown | [Go!](https://app.buildingconnected.com/docs/#introduction) |
+| Cl3ver | Description | No | No | Unknown | [Go!](https://www.cl3ver.com/developers-api/) |
+| CoBuilder | Closed | No | No | Unknown | [Go!](http://gobim.com/api-features/) |
+| Cosential | Description | No | No | Unknown | [Go!](https://compass.cosential.com/) |
+| Damas | Description | No | No | Unknown | [Go!](https://github.com/remyla/damas-core) |
+| BuildingSMART - Data dictionary | Description | No | No | Unknown | [Go!](http://bsdd.buildingsmart.org/docs/) |
+| Drone Deploy | Description | No | No | Unknown | [Go!](https://support.dronedeploy.com/docs/data-api-access) |
+| Fieldview | Description | No | No | Unknown | [Go!](http://mcsforum.info/wiki/index.php?title=Field_View_API_Documentation) |
+| Flux | Description | No | No | Unknown | [Go!](https://flux.io/developer/) |
+| FME | Description | No | No | Unknown | [Go!](https://docs.safe.com/fme/html/FME_REST/apidoc/v3/index.html) |
+| Forge - BIM360 | Description | No | No | Unknown | [Go!](https://developer.autodesk.com/en/docs/bim360/v1) |
+| Forge - Data Management | Description | No | No | Unknown | [Go!](https://developer.autodesk.com/en/docs/data/v2/overview/) |
+| Forge - Design Automation | Description | No | No | Unknown | [Go!](https://developer.autodesk.com/en/docs/design-automation/v2/overview/) |
+| Forge - Model Derivative | Description | No | No | Unknown | [Go!](https://developer.autodesk.com/en/docs/model-derivative/v2/overview/) |
+| Forge - Oauth | Description | No | No | Unknown | [Go!](https://developer.autodesk.com/en/docs/oauth/v2/overview/) |
+| Forge - Reality Capture | Description | No | No | Unknown | [Go!](https://developer.autodesk.com/en/docs/reality-capture/v1/overview/) |
+| Forge - Webhook | Description | No | No | Unknown | [Go!](https://developer.autodesk.com/en/docs/webhooks/v1/overview/basics/) |
 | GoBIM | Description | No | No | Unknown | [Go!](https://google.com) |
 | Hangar Job Sight | Description | No | No | Unknown | [Go!](https://google.com) |
 | Highrise | Description | No | No | Unknown | [Go!](https://google.com) |
@@ -121,6 +83,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Packhunt | Description | No | No | Unknown | [Go!](https://google.com) |
 | Pantera tools | Description | No | No | Unknown | [Go!](https://google.com) |
 | PAT | Description | No | No | Unknown | [Go!](https://google.com) |
+| Plangrid | Description | No | No | Unknown | [Go!](https://google.com) |
 | Primavera | Description | No | No | Unknown | [Go!](https://google.com) |
 | Prism | Description | No | No | Unknown | [Go!](https://google.com) |
 | Procore | Description | No | No | Unknown | [Go!](https://google.com) |
