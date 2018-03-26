@@ -1,7 +1,7 @@
 # AEC-APIs
 A collective list of APIs for web development in the Architecture Engineering Construction and Operations industries. 
 
-A user friendly view for the APIs can be [found here].(http://aec-apis-app.user.project.bimlauncher.com/)
+A user friendly view for the APIs can be [found here](http://aec-apis-app.user.project.bimlauncher.com/)
 
 The purpose of the repository is to provide developers with a resource to view industry specific APIs in one place. 
 
