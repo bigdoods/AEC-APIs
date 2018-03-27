@@ -1,17 +1,15 @@
 # AEC-APIs
-A collective list of APIs for web development in the Architecture Engineering Construction and Operations industries. 
+A list of APIs for web development in the Architecture Engineering Construction and Operations (AECO) industries to provide developers with a resource to view industry specific APIs from one place. 
 
-A user friendly view for the APIs can be [found here](http://aec-apis-app.user.project.bimlauncher.com)
+An application has been created to provide a user friendly view of the contents of this repo [here](http://aec-apis-app.user.project.bimlauncher.com/).
 
-The purpose of the repository is to provide developers with a resource to view industry specific APIs in one place. 
-
-Contributing guide is coming soon.
+[Contributing guide here](CONTRIBUTING.md).
 
 ## Index
 
-* [BIM APIs](#bim-apis)
+* [AEC APIs](#aec-apis)
 
-### BIM APIs
+### AEC APIs
 API | Description | Auth | HTTPS | CORS | Link |
 |---|---|---|---|---|---|
 | 3d io | Description | No | No | Unknown | [Go!](https://3d.io/docs/api/1) |
