@@ -31,10 +31,10 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Bluebeam | Description | No | No | Unknown | [Go!](https://developers.bluebeam.com/articles/getting-started) |
 | Bosch MeasureON | Description | No | No | Unknown | [Go!](https://developer.bosch.com) |
 | Building Connected | Description | No | No | Unknown | [Go!](https://app.buildingconnected.com/docs/#introduction) |
+| BuildingSMART - Data dictionary | Description | No | No | Unknown | [Go!](http://bsdd.buildingsmart.org/docs) |
 | Cl3ver | Description | No | No | Unknown | [Go!](https://www.cl3ver.com/developers-api) |
 | Cosential | Description | No | No | Unknown | [Go!](https://compass.cosential.com) |
 | Damas | Description | No | No | Unknown | [Go!](https://github.com/remyla/damas-core) |
-| BuildingSMART - Data dictionary | Description | No | No | Unknown | [Go!](http://bsdd.buildingsmart.org/docs) |
 | Drone Deploy | Description | No | No | Unknown | [Go!](https://support.dronedeploy.com/docs/data-api-access) |
 | Fieldview | Description | No | No | Unknown | [Go!](http://mcsforum.info/wiki/index.php?title=Field_View_API_Documentation) |
 | Fieldwire | Description | No | No | Unknown | [Go!](http://apidocs.fieldwire.net) |
@@ -49,7 +49,6 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Forge - Webhook | Description | No | No | Unknown | [Go!](https://developer.autodesk.com/en/docs/webhooks/v1/overview/basics) |
 | GoBIM | Description | No | No | Unknown | [Go!](http://gobim.com/api) |
 | Hangar Job Sight | Description | No | No | Unknown | [Go!](https://hangar.com/developer) |
-| Sitesense | Description | No | No | Unknown | [Go!](https://www.intelliwavetechnologies.com/sitesense-developer-api) |
 | Matterport | Description | No | No | Unknown | [Go!](https://matterport.com/developers) |
 | Maximo | Description | No | No | Unknown | [Go!](https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/IBM%20Maximo%20Asset%20Management/page/Maximo%20JSON%20API) |
 | Microsoft Project | Description | No | No | Unknown | [Go!](https://msdn.microsoft.com/en-us/library/office/jj712612.aspx) |
@@ -62,6 +61,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Procore | Description | No | No | Unknown | [Go!](https://developers.procore.com/documentation/introduction) |
 | Raken | Description | No | No | Unknown | [Go!](https://stage.rakenapp.com/developer-api-docs) |
 | Shapediver | Description | No | No | Unknown | [Go!](https://shapediver.com/api) |
+| Sitesense | Description | No | No | Unknown | [Go!](https://www.intelliwavetechnologies.com/sitesense-developer-api) |
 | Speckle | API | No | No | Unknown | [Go!](https://github.com/speckleworks/SpeckleSpecs) |
 | Trimble connect | Description | No | No | Unknown | [Go!](https://app.connect.trimble.com/tc/static/apidoc.html) |
 | Viewpoint | Description | No | No | Unknown | [Go!](https://vfpdocs.viewpoint.com/VfP_topics_user/c_developer_doc.html) |
