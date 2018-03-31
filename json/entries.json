@@ -1,5 +1,5 @@
 {
-    "count": 51,
+    "count": 53,
     "entries": [
         {
             "API": "3d io",
@@ -26,6 +26,15 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://help.aconex.com/aconex/aconex-api",
+            "Category": "AEC APIs"
+        },
+        {
+            "API": "Acuite",
+            "Description": "Construction project management software",
+            "Auth": "apiKey",
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://api.acuite.co.nz/swagger/ui/index",
             "Category": "AEC APIs"
         },
         {
@@ -143,6 +152,15 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://developer.bosch.com",
+            "Category": "AEC APIs"
+        },
+        {
+            "API": "Build Sim Hub",
+            "Description": "Description",
+            "Auth": "apiKey",
+            "HTTPS": true,
+            "CORS": "Yes",
+            "Link": "https://raw.githubusercontent.com/weilix88/buildsimhub_python_api/master/bsh_openapi.yaml",
             "Category": "AEC APIs"
         },
         {
