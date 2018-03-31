@@ -8,7 +8,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://3d.io/docs/api/1",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "3d Repo",
@@ -17,7 +17,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://3drepo.github.io/3drepo.io",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "Aconex",
@@ -26,7 +26,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://help.aconex.com/aconex/aconex-api",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "ArcGIS",
@@ -35,7 +35,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://developers.arcgis.com/web-api",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "Asite",
@@ -44,7 +44,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://upload.asite.com/dmshelp/About_API.htm",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "Basestone",
@@ -53,7 +53,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://api.basestone.io/api/v1",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "BIM Data",
@@ -62,7 +62,7 @@
             "HTTPS": true,
             "CORS": "Unknown",
             "Link": "https://api.bimdata.io/api/doc",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "BIM Object",
@@ -71,7 +71,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://developer.bimobject.com",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "BIM Plus",
@@ -80,7 +80,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://doc.bimplus.net/display/bimpluspublic/Introduction",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "BIM Server",
@@ -89,7 +89,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://github.com/opensourceBIM/BIMserver/wiki/JSON-API",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "BIM Store",
@@ -98,7 +98,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "http://developer.bimstore.co.uk",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "BIM Sync",
@@ -107,7 +107,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://bimsync.com/developers",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "BIM Toolkit",
@@ -116,7 +116,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://toolkit-api.thenbs.com",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "BIM Track",
@@ -125,7 +125,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "http://bimtrack.co/en/resources/api",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "Bluebeam",
@@ -134,7 +134,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://developers.bluebeam.com/articles/getting-started",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "Bosch MeasureON",
@@ -143,7 +143,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://developer.bosch.com",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "Building Connected",
@@ -152,7 +152,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://app.buildingconnected.com/docs/#introduction",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "BuildingSMART - Data dictionary",
@@ -161,7 +161,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "http://bsdd.buildingsmart.org/docs",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "Cl3ver",
@@ -170,7 +170,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://www.cl3ver.com/developers-api",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "Cosential",
@@ -179,7 +179,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://compass.cosential.com",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "Damas",
@@ -188,7 +188,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://github.com/remyla/damas-core",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "Drone Deploy",
@@ -197,7 +197,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://support.dronedeploy.com/docs/data-api-access",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "Fieldview",
@@ -206,7 +206,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "http://mcsforum.info/wiki/index.php?title=Field_View_API_Documentation",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "Fieldwire",
@@ -215,7 +215,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "http://apidocs.fieldwire.net",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "Flux",
@@ -224,7 +224,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://flux.io/developer",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "FME",
@@ -233,7 +233,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://docs.safe.com/fme/html/FME_REST/apidoc/v3/index.html",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "Forge - BIM360",
@@ -242,7 +242,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://developer.autodesk.com/en/docs/bim360/v1",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "Forge - Data Management",
@@ -251,7 +251,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://developer.autodesk.com/en/docs/data/v2/overview",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "Forge - Design Automation",
@@ -260,7 +260,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://developer.autodesk.com/en/docs/design-automation/v2/overview",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "Forge - Model Derivative",
@@ -269,7 +269,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://developer.autodesk.com/en/docs/model-derivative/v2/overview",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "Forge - Oauth",
@@ -278,7 +278,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://developer.autodesk.com/en/docs/oauth/v2/overview",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "Forge - Reality Capture",
@@ -287,7 +287,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://developer.autodesk.com/en/docs/reality-capture/v1/overview",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "Forge - Webhook",
@@ -296,7 +296,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://developer.autodesk.com/en/docs/webhooks/v1/overview/basics",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "GoBIM",
@@ -305,7 +305,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "http://gobim.com/api",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "Hangar Job Sight",
@@ -314,7 +314,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://hangar.com/developer",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "Matterport",
@@ -323,7 +323,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://matterport.com/developers",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "Maximo",
@@ -332,7 +332,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/IBM%20Maximo%20Asset%20Management/page/Maximo%20JSON%20API",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "Microsoft Project",
@@ -341,7 +341,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://msdn.microsoft.com/en-us/library/office/jj712612.aspx",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "Okta SSO",
@@ -350,7 +350,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://developer.okta.com/documentation",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "One Login SSO",
@@ -359,7 +359,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://developers.onelogin.com",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "Openmaint",
@@ -368,7 +368,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "http://www.cmdbuild.org/file/manuali/webservice-manual-in-english",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "Ordnance Survey",
@@ -377,7 +377,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://developer.ordnancesurvey.co.uk",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "Plangrid",
@@ -386,7 +386,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://developer.plangrid.com/docs",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "Primavera",
@@ -395,7 +395,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://docs.oracle.com/cd/E16281_01/Technical_Documentation/Integration_API/ProgrammerReference.html",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "Procore",
@@ -404,7 +404,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://developers.procore.com/documentation/introduction",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "Raken",
@@ -413,7 +413,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://stage.rakenapp.com/developer-api-docs",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "Shapediver",
@@ -422,7 +422,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://shapediver.com/api",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "Sitesense",
@@ -431,7 +431,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://www.intelliwavetechnologies.com/sitesense-developer-api",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "Speckle",
@@ -440,7 +440,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://github.com/speckleworks/SpeckleSpecs",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "Trimble connect",
@@ -449,7 +449,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://app.connect.trimble.com/tc/static/apidoc.html",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         },
         {
             "API": "Viewpoint",
@@ -458,7 +458,7 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://vfpdocs.viewpoint.com/VfP_topics_user/c_developer_doc.html",
-            "Category": "BIM APIs"
+            "Category": "AEC APIs"
         }
     ]
 }
