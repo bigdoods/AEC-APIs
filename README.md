@@ -14,8 +14,8 @@ API | Description | Auth | HTTPS | CORS | Link |
 |---|---|---|---|---|---|
 | 3d io | Description | No | No | Unknown | [Go!](https://3d.io/docs/api/1) |
 | 3d Repo | Description | No | No | Unknown | [Go!](https://3drepo.github.io/3drepo.io) |
-| Acuite | Construction project management software | apiKey | No | Unknown | [Go!](https://api.acuite.co.nz/swagger/ui/index) |
 | Aconex | Description | No | No | Unknown | [Go!](https://help.aconex.com/aconex/aconex-api) |
+| Acuite | Construction project management software | apiKey | No | Unknown | [Go!](https://api.acuite.co.nz/swagger/ui/index) |
 | ArcGIS | Description | No | No | Unknown | [Go!](https://developers.arcgis.com/web-api) |
 | Asite | Description | No | No | Unknown | [Go!](https://upload.asite.com/dmshelp/About_API.htm) |
 | Basestone | Description | No | No | Unknown | [Go!](https://api.basestone.io/api/v1) |
