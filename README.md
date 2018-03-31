@@ -15,7 +15,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | 3d io | Description | No | No | Unknown | [Go!](https://3d.io/docs/api/1) |
 | 3d Repo | Description | No | No | Unknown | [Go!](https://3drepo.github.io/3drepo.io) |
 | Aconex | Description | No | No | Unknown | [Go!](https://help.aconex.com/aconex/aconex-api) |
-| Acuite | Construction project management software | apiKey | No | Unknown | [Go!](https://api.acuite.co.nz/swagger/ui/index) |
+| Acuite | Construction project management software | `apiKey` | No | Unknown | [Go!](https://api.acuite.co.nz/swagger/ui/index) |
 | ArcGIS | Description | No | No | Unknown | [Go!](https://developers.arcgis.com/web-api) |
 | Asite | Description | No | No | Unknown | [Go!](https://upload.asite.com/dmshelp/About_API.htm) |
 | Basestone | Description | No | No | Unknown | [Go!](https://api.basestone.io/api/v1) |
@@ -29,9 +29,9 @@ API | Description | Auth | HTTPS | CORS | Link |
 | BIM Track | Description | No | No | Unknown | [Go!](http://bimtrack.co/en/resources/api) |
 | Bluebeam | Description | No | No | Unknown | [Go!](https://developers.bluebeam.com/articles/getting-started) |
 | Bosch MeasureON | Description | No | No | Unknown | [Go!](https://developer.bosch.com) |
+| Build Sim Hub | Description | `apiKey` | Yes | Yes | [Go!](https://raw.githubusercontent.com/weilix88/buildsimhub_python_api/master/bsh_openapi.yaml) |
 | Building Connected | Description | No | No | Unknown | [Go!](https://app.buildingconnected.com/docs/#introduction) |
 | BuildingSMART - Data dictionary | Description | No | No | Unknown | [Go!](http://bsdd.buildingsmart.org/docs) |
-| Build Sim Hub | Description | apiKey | Yes | Yes | [Go!](https://raw.githubusercontent.com/weilix88/buildsimhub_python_api/master/bsh_openapi.yaml) |
 | Cl3ver | Description | No | No | Unknown | [Go!](https://www.cl3ver.com/developers-api) |
 | Cosential | Description | No | No | Unknown | [Go!](https://compass.cosential.com) |
 | Damas | Description | No | No | Unknown | [Go!](https://github.com/remyla/damas-core) |
