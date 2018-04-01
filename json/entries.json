@@ -12,16 +12,16 @@
         },
         {
             "API": "3d Repo",
-            "Description": "Description",
-            "Auth": null,
-            "HTTPS": false,
+            "Description": "Collaborative BIM Platform",
+            "Auth": "X-Mashape-Key",
+            "HTTPS": true,
             "CORS": "Unknown",
             "Link": "https://3drepo.github.io/3drepo.io",
             "Category": "AEC APIs"
         },
         {
             "API": "Aconex",
-            "Description": "Description",
+            "Description": "Collaborative BIM Platform (Closed docs)",
             "Auth": null,
             "HTTPS": false,
             "CORS": "Unknown",
@@ -30,7 +30,7 @@
         },
         {
             "API": "Acuite",
-            "Description": "Construction project management software",
+            "Description": "Collaborative BIM Platform",
             "Auth": "apiKey",
             "HTTPS": false,
             "CORS": "Unknown",
@@ -39,7 +39,7 @@
         },
         {
             "API": "ArcGIS",
-            "Description": "Description",
+            "Description": "Mapping tools",
             "Auth": null,
             "HTTPS": false,
             "CORS": "Unknown",
@@ -48,7 +48,7 @@
         },
         {
             "API": "Asite",
-            "Description": "Description",
+            "Description": "Collaborative BIM Platform (Closed docs)",
             "Auth": null,
             "HTTPS": false,
             "CORS": "Unknown",
@@ -57,7 +57,7 @@
         },
         {
             "API": "Basestone",
-            "Description": "Description",
+            "Description": "Collaborative BIM Platform",
             "Auth": null,
             "HTTPS": false,
             "CORS": "Unknown",
@@ -66,8 +66,8 @@
         },
         {
             "API": "BIM Data",
-            "Description": "Description",
-            "Auth": null,
+            "Description": "Collaborative BIM Platform",
+            "Auth": "OAuth",
             "HTTPS": true,
             "CORS": "Unknown",
             "Link": "https://api.bimdata.io/api/doc",
@@ -75,7 +75,7 @@
         },
         {
             "API": "BIM Object",
-            "Description": "Description",
+            "Description": "BIM Content (Closed docs)",
             "Auth": null,
             "HTTPS": false,
             "CORS": "Unknown",
@@ -84,17 +84,17 @@
         },
         {
             "API": "BIM Plus",
-            "Description": "Description",
-            "Auth": null,
-            "HTTPS": false,
-            "CORS": "Unknown",
+            "Description": "Collaborative BIM Platform",
+            "Auth": "OAuth",
+            "HTTPS": true,
+            "CORS": "Yes",
             "Link": "https://doc.bimplus.net/display/bimpluspublic/Introduction",
             "Category": "AEC APIs"
         },
         {
             "API": "BIM Server",
-            "Description": "Description",
-            "Auth": null,
+            "Description": "Collaborative BIM Platform",
+            "Auth": "OAuth",
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://github.com/opensourceBIM/BIMserver/wiki/JSON-API",
@@ -102,18 +102,18 @@
         },
         {
             "API": "BIM Store",
-            "Description": "Description",
-            "Auth": null,
-            "HTTPS": false,
+            "Description": "BIM Content",
+            "Auth": "apiKey",
+            "HTTPS": true,
             "CORS": "Unknown",
             "Link": "http://developer.bimstore.co.uk",
             "Category": "AEC APIs"
         },
         {
             "API": "BIM Sync",
-            "Description": "Description",
-            "Auth": null,
-            "HTTPS": false,
+            "Description": "Collaborative BIM Platform",
+            "Auth": "OAuth",
+            "HTTPS": true,
             "CORS": "Unknown",
             "Link": "https://bimsync.com/developers",
             "Category": "AEC APIs"
