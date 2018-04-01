@@ -13,9 +13,9 @@ An application has been created to provide a user friendly view of the contents 
 API | Description | Auth | HTTPS | CORS | Link |
 |---|---|---|---|---|---|
 | 3d io | Description | No | No | Unknown | [Go!](https://3d.io/docs/api/1) |
-| 3d Repo | Collaborative BIM Platform | `Cookie` | Yes | Unknown | [Go!](https://3drepo.github.io/3drepo.io) |
+| 3d Repo | Collaborative BIM Platform | `X-Mashape-Key` | Yes | Unknown | [Go!](https://3drepo.github.io/3drepo.io) |
 | Aconex | Collaborative BIM Platform (Closed docs) | No | No | Unknown | [Go!](https://help.aconex.com/aconex/aconex-api) |
-| Acuite | Collaborative BIM Platform | `AcuiteApiKey` | No | Unknown | [Go!](https://api.acuite.co.nz/swagger/ui/index) |
+| Acuite | Collaborative BIM Platform | `apiKey` | No | Unknown | [Go!](https://api.acuite.co.nz/swagger/ui/index) |
 | ArcGIS | Mapping tools | No | No | Unknown | [Go!](https://developers.arcgis.com/web-api) |
 | Asite | Collaborative BIM Platform (Closed docs) | No | No | Unknown | [Go!](https://upload.asite.com/dmshelp/About_API.htm) |
 | Basestone | Collaborative BIM Platform | No | No | Unknown | [Go!](https://api.basestone.io/api/v1) |
@@ -24,7 +24,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | BIM Plus | Collaborative BIM Platform | `OAuth` | Yes | Yes | [Go!](https://doc.bimplus.net/display/bimpluspublic/Introduction) |
 | BIM Server | Collaborative BIM Platform | `OAuth` | No | Unknown | [Go!](https://github.com/opensourceBIM/BIMserver/wiki/JSON-API) |
 | BIM Store | BIM Content | `apiKey` | Yes | Unknown | [Go!](http://developer.bimstore.co.uk) |
-| BIM Sync | Collaborative BIM Platform | `OAuth2` | Yes | Unknown | [Go!](https://bimsync.com/developers) |
+| BIM Sync | Collaborative BIM Platform | `OAuth` | Yes | Unknown | [Go!](https://bimsync.com/developers) |
 | BIM Toolkit | Description | No | No | Unknown | [Go!](https://toolkit-api.thenbs.com) |
 | BIM Track | Description | No | No | Unknown | [Go!](http://bimtrack.co/en/resources/api) |
 | Bluebeam | Description | No | No | Unknown | [Go!](https://developers.bluebeam.com/articles/getting-started) |
