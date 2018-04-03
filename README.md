@@ -15,7 +15,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | 3d io | Description | No | No | Unknown | [Go!](https://3d.io/docs/api/1) |
 | 3d Repo | Collaborative BIM Platform | `X-Mashape-Key` | Yes | Unknown | [Go!](https://3drepo.github.io/3drepo.io) |
 | Aconex | Collaborative BIM Platform (Closed docs) | No | No | Unknown | [Go!](https://help.aconex.com/aconex/aconex-api) |
-| Acuite | Collaborative BIM Platform | `apiKey` | No | Unknown | [Go!](https://api.acuite.co.nz/swagger/ui/index) |
+| Acuite | Collaborative BIM Platform | `apiKey` | Yes | No | [Go!](https://api.acuite.co.nz/swagger/ui/index) |
 | ArcGIS | Mapping tools | No | No | Unknown | [Go!](https://developers.arcgis.com/web-api) |
 | Asite | Collaborative BIM Platform (Closed docs) | No | No | Unknown | [Go!](https://upload.asite.com/dmshelp/About_API.htm) |
 | Basestone | Collaborative BIM Platform | No | No | Unknown | [Go!](https://api.basestone.io/api/v1) |
