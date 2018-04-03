@@ -11,11 +11,11 @@
             "Category": "AEC APIs"
         },
         {
-            "API": "3d Repo",
+            "API": "3D Repo",
             "Description": "Collaborative BIM Platform",
             "Auth": "X-Mashape-Key",
             "HTTPS": true,
-            "CORS": "Unknown",
+            "CORS": "Yes",
             "Link": "https://3drepo.github.io/3drepo.io",
             "Category": "AEC APIs"
         },
