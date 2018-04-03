@@ -13,7 +13,7 @@ An application has been created to provide a user friendly view of the contents 
 API | Description | Auth | HTTPS | CORS | Link |
 |---|---|---|---|---|---|
 | 3d io | Description | No | No | Unknown | [Go!](https://3d.io/docs/api/1) |
-| 3d Repo | Collaborative BIM Platform | `X-Mashape-Key` | Yes | Unknown | [Go!](https://3drepo.github.io/3drepo.io) |
+| 3D Repo | Collaborative BIM Platform | `X-Mashape-Key` | Yes | Yes | [Go!](https://3drepo.github.io/3drepo.io) |
 | Aconex | Collaborative BIM Platform (Closed docs) | No | No | Unknown | [Go!](https://help.aconex.com/aconex/aconex-api) |
 | Acuite | Collaborative BIM Platform | `apiKey` | Yes | No | [Go!](https://api.acuite.co.nz/swagger/ui/index) |
 | ArcGIS | Mapping tools | No | No | Unknown | [Go!](https://developers.arcgis.com/web-api) |
