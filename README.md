@@ -29,7 +29,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | BIM Track | Collaborative BIM Platform | `apiKey` | Yes | Unknown | [Go!](https://api.bimtrackbeta.co/swagger/index#!/File/File_File_CreateCommentImage) |
 | Bluebeam | Description | `OAuth` | Yes | Unknown | [Go!](https://developers.bluebeam.com/articles/getting-started) |
 | Bosch MeasureON | Description | No | No | Unknown | [Go!](https://developer.bosch.com) |
-| Build Sim Hub | Description | `apiKey` | Yes | Yes | [Go!](https://raw.githubusercontent.com/weilix88/buildsimhub_python_api/master/bsh_openapi.yaml) |
+| Build Sim Hub | Envrionmental analysis | `apiKey` | Yes | Yes | [Go!](https://raw.githubusercontent.com/weilix88/buildsimhub_python_api/master/bsh_openapi.yaml) |
 | Building Connected | Preconstruction tools | `OAuth` | Yes | Unknown | [Go!](https://app.buildingconnected.com/docs/#introduction) |
 | BuildingSMART - Data dictionary | Description | No | No | Unknown | [Go!](http://bsdd.buildingsmart.org/docs) |
 | Cl3ver | Interactive 3D presentations (Browser API) | No | No | Unknown | [Go!](https://www.cl3ver.com/developers-api) |
@@ -43,7 +43,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Forge - Data Management | Access data | `OAuth` | Yes | Unknown | [Go!](https://developer.autodesk.com/en/docs/data/v2/overview) |
 | Forge - Design Automation | Run scripts on files | `OAuth` | Yes | Unknown | [Go!](https://developer.autodesk.com/en/docs/design-automation/v2/overview) |
 | Forge - Model Derivative | Convert files to other formats | `OAuth` | Yes | Unknown | [Go!](https://developer.autodesk.com/en/docs/model-derivative/v2/overview) |
-| Forge - Oauth | Authentication |`OAuth` | Yes | Unknown | [Go!](https://developer.autodesk.com/en/docs/oauth/v2/overview) |
+| Forge - Oauth | Authentication | `OAuth` | Yes | Unknown | [Go!](https://developer.autodesk.com/en/docs/oauth/v2/overview) |
 | Forge - Reality Capture | Photogrammetry service | `OAuth` | Yes | Unknown | [Go!](https://developer.autodesk.com/en/docs/reality-capture/v1/overview) |
 | Forge - Webhook | Callback on events | `OAuth` | Yes | Unknown | [Go!](https://developer.autodesk.com/en/docs/webhooks/v1/overview/basics) |
 | GoBIM | Product data | No | No | Unknown | [Go!](http://gobim.com/api) |
@@ -62,7 +62,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Procore | Project management | `OAuth` | Yes | Unknown | [Go!](https://developers.procore.com/documentation/introduction) |
 | Raken | Field data, punch lists, daily logs, inspections | `OAuth` | Yes | Unknown | [Go!](https://stage.rakenapp.com/developer-api-docs) |
 | Shapediver | Paramtetric design explorer (Browser API) | No | No | Unknown | [Go!](https://shapediver.com/api) |
-| Sitesense | Description | No | No | Unknown | [Go!](https://www.intelliwavetechnologies.com/sitesense-developer-api) |
+| Sitesense | Project management | No | No | Unknown | [Go!](https://www.intelliwavetechnologies.com/sitesense-developer-api) |
 | Speckle | Real time collaboration | `X-Mashape-Key` | No | Unknown | [Go!](https://github.com/speckleworks/SpeckleSpecs) |
 | Trimble connect | Project management | `X-Mashape-Key` | Yes | Unknown | [Go!](https://app.connect.trimble.com/tc/static/apidoc.html) |
 | Viewpoint | Project management | No | No | Unknown | [Go!](https://vfpdocs.viewpoint.com/VfP_topics_user/c_developer_doc.html) |
