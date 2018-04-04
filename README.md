@@ -32,36 +32,37 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Build Sim Hub | Description | `apiKey` | Yes | Yes | [Go!](https://raw.githubusercontent.com/weilix88/buildsimhub_python_api/master/bsh_openapi.yaml) |
 | Building Connected | Preconstruction tools | `OAuth` | Yes | Unknown | [Go!](https://app.buildingconnected.com/docs/#introduction) |
 | BuildingSMART - Data dictionary | Description | No | No | Unknown | [Go!](http://bsdd.buildingsmart.org/docs) |
-| Cl3ver | Description | No | No | Unknown | [Go!](https://www.cl3ver.com/developers-api) |
-| Cosential | Description | No | No | Unknown | [Go!](https://compass.cosential.com) |
-| Damas | Description | No | No | Unknown | [Go!](https://github.com/remyla/damas-core) |
-| Drone Deploy | Description | No | No | Unknown | [Go!](https://support.dronedeploy.com/docs/data-api-access) |
-| Fieldview | Description | No | No | Unknown | [Go!](http://mcsforum.info/wiki/index.php?title=Field_View_API_Documentation) |
-| Fieldwire | Description | No | No | Unknown | [Go!](http://apidocs.fieldwire.net) |
-| Flux | Description | No | No | Unknown | [Go!](https://flux.io/developer) |
-| FME | Description | No | No | Unknown | [Go!](https://docs.safe.com/fme/html/FME_REST/apidoc/v3/index.html) |
-| Forge - BIM360 | Description | No | No | Unknown | [Go!](https://developer.autodesk.com/en/docs/bim360/v1) |
-| Forge - Data Management | Description | No | No | Unknown | [Go!](https://developer.autodesk.com/en/docs/data/v2/overview) |
-| Forge - Design Automation | Description | No | No | Unknown | [Go!](https://developer.autodesk.com/en/docs/design-automation/v2/overview) |
-| Forge - Model Derivative | Description | No | No | Unknown | [Go!](https://developer.autodesk.com/en/docs/model-derivative/v2/overview) |
-| Forge - Oauth | Description | No | No | Unknown | [Go!](https://developer.autodesk.com/en/docs/oauth/v2/overview) |
-| Forge - Reality Capture | Description | No | No | Unknown | [Go!](https://developer.autodesk.com/en/docs/reality-capture/v1/overview) |
-| Forge - Webhook | Description | No | No | Unknown | [Go!](https://developer.autodesk.com/en/docs/webhooks/v1/overview/basics) |
-| GoBIM | Description | No | No | Unknown | [Go!](http://gobim.com/api) |
-| Hangar Job Sight | Description | No | No | Unknown | [Go!](https://hangar.com/developer) |
-| Matterport | Description | No | No | Unknown | [Go!](https://matterport.com/developers) |
-| Maximo | Description | No | No | Unknown | [Go!](https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/IBM%20Maximo%20Asset%20Management/page/Maximo%20JSON%20API) |
-| Microsoft Project | Description | No | No | Unknown | [Go!](https://msdn.microsoft.com/en-us/library/office/jj712612.aspx) |
-| Okta SSO | Description | No | No | Unknown | [Go!](https://developer.okta.com/documentation) |
-| One Login SSO | Description | No | No | Unknown | [Go!](https://developers.onelogin.com) |
-| Openmaint | Description | No | No | Unknown | [Go!](http://www.cmdbuild.org/file/manuali/webservice-manual-in-english) |
-| Ordnance Survey | Description | No | No | Unknown | [Go!](https://developer.ordnancesurvey.co.uk) |
-| Plangrid | Description | No | No | Unknown | [Go!](https://developer.plangrid.com/docs) |
-| Primavera | Description | No | No | Unknown | [Go!](https://docs.oracle.com/cd/E16281_01/Technical_Documentation/Integration_API/ProgrammerReference.html) |
-| Procore | Description | No | No | Unknown | [Go!](https://developers.procore.com/documentation/introduction) |
-| Raken | Description | No | No | Unknown | [Go!](https://stage.rakenapp.com/developer-api-docs) |
-| Shapediver | Description | No | No | Unknown | [Go!](https://shapediver.com/api) |
+| Cl3ver | Interactive 3D presentations (Browser API) | No | No | Unknown | [Go!](https://www.cl3ver.com/developers-api) |
+| Cosential | CRM and proposal automation | `apiKey` | No | Unknown | [Go!](https://compass.cosential.com) |
+| Dabox | Collaborative BIM platform | No | No | Unknown | [Go!](https://github.com/remyla/damas-core) |
+| Drone Deploy | Drone Flying, Mapping, Storage, and Sharing | `apiKey` | Yes | Unknown | [Go!](https://support.dronedeploy.com/docs/data-api-access) |
+| Fieldview | Field data, punch lists, daily logs, inspections | `apiKey` | Yes | Unknown | [Go!](http://mcsforum.info/wiki/index.php?title=Field_View_API_Documentation) |
+| Fieldwire | Field data, punch lists, daily logs, inspections | `apiKey` | No | Unknown | [Go!](http://apidocs.fieldwire.net) |
+| FME | Task automation | No | No | Unknown | [Go!](https://docs.safe.com/fme/html/FME_REST/apidoc/v3/index.html) |
+| Forge - BIM360 | Account level functionalities | `OAuth` | Yes | Unknown | [Go!](https://developer.autodesk.com/en/docs/bim360/v1) |
+| Forge - Data Management | Access data | `OAuth` | Yes | Unknown | [Go!](https://developer.autodesk.com/en/docs/data/v2/overview) |
+| Forge - Design Automation | Run scripts on files | `OAuth` | Yes | Unknown | [Go!](https://developer.autodesk.com/en/docs/design-automation/v2/overview) |
+| Forge - Model Derivative | Convert files to other formats | `OAuth` | Yes | Unknown | [Go!](https://developer.autodesk.com/en/docs/model-derivative/v2/overview) |
+| Forge - Oauth | Authentication |`OAuth` | Yes | Unknown | [Go!](https://developer.autodesk.com/en/docs/oauth/v2/overview) |
+| Forge - Reality Capture | Photogrammetry service | `OAuth` | Yes | Unknown | [Go!](https://developer.autodesk.com/en/docs/reality-capture/v1/overview) |
+| Forge - Webhook | Callback on events | `OAuth` | Yes | Unknown | [Go!](https://developer.autodesk.com/en/docs/webhooks/v1/overview/basics) |
+| GoBIM | Product data | No | No | Unknown | [Go!](http://gobim.com/api) |
+| Hangar Job Sight | Robotics as a System | `OAuth` | No | Unknown | [Go!](https://hangar.com/developer) |
+| Matterport | 3D scanning (Browser API) | No | No | Unknown | [Go!](https://matterport.github.io/showcase-sdk/docs/) |
+| Maximo | Asset management | `apiKey` | Yes | Unknown | [Go!](https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/IBM%20Maximo%20Asset%20Management/page/Maximo%20JSON%20API) |
+| Microsoft Project | Project management | `OAuth` | Yes | Yes | [Go!](https://msdn.microsoft.com/en-us/library/office/jj712612.aspx) |
+| Okta SSO | Identity access management | `OAuth` | Yes | Unknown | [Go!](https://developer.okta.com/documentation) |
+| One Login SSO | Identity access management | `OAuth` | Yes | Unknown | [Go!](https://developers.onelogin.com) |
+| Openmaint | Asset management | No | No | Unknown | [Go!](http://www.cmdbuild.org/file/manuali/webservice-manual-in-english) |
+| Ordnance Survey - Maps | UK topological data | `apiKey` | Yes | Unknown | [Go!](https://apidocs.os.uk/docs/os-maps-overview) |
+| Ordnance Survey - Names | Verify UK places, road names, numbers and postcodes | `apiKey` | Yes | Unknown | [Go!](https://apidocs.os.uk/docs/os-names-overview) |
+| Ordnance Survey - Places | UK address data | `apiKey` | Yes | Unknown | [Go!](https://apidocs.os.uk/docs/os-places-overview) |
+| Plangrid | Field data, punch lists, daily logs, inspections | `apiKey` | Yes | Unknown | [Go!](https://developer.plangrid.com/docs) |
+| Primavera | Project management | No | No | Unknown | [Go!](https://docs.oracle.com/cd/E16281_01/Technical_Documentation/Integration_API/ProgrammerReference.html) |
+| Procore | Project management | `OAuth` | Yes | Unknown | [Go!](https://developers.procore.com/documentation/introduction) |
+| Raken | Field data, punch lists, daily logs, inspections | `OAuth` | Yes | Unknown | [Go!](https://stage.rakenapp.com/developer-api-docs) |
+| Shapediver | Paramtetric design explorer (Browser API) | No | No | Unknown | [Go!](https://shapediver.com/api) |
 | Sitesense | Description | No | No | Unknown | [Go!](https://www.intelliwavetechnologies.com/sitesense-developer-api) |
-| Speckle | API | No | No | Unknown | [Go!](https://github.com/speckleworks/SpeckleSpecs) |
-| Trimble connect | Description | No | No | Unknown | [Go!](https://app.connect.trimble.com/tc/static/apidoc.html) |
-| Viewpoint | Description | No | No | Unknown | [Go!](https://vfpdocs.viewpoint.com/VfP_topics_user/c_developer_doc.html) |
+| Speckle | Real time collaboration | `X-Mashape-Key` | No | Unknown | [Go!](https://github.com/speckleworks/SpeckleSpecs) |
+| Trimble connect | Project management | `X-Mashape-Key` | Yes | Unknown | [Go!](https://app.connect.trimble.com/tc/static/apidoc.html) |
+| Viewpoint | Project management | No | No | Unknown | [Go!](https://vfpdocs.viewpoint.com/VfP_topics_user/c_developer_doc.html) |
