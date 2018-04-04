@@ -25,12 +25,12 @@ API | Description | Auth | HTTPS | CORS | Link |
 | BIM Server | Collaborative BIM Platform | `OAuth` | No | Unknown | [Go!](https://github.com/opensourceBIM/BIMserver/wiki/JSON-API) |
 | BIM Store | BIM Content | `apiKey` | Yes | Unknown | [Go!](http://developer.bimstore.co.uk) |
 | BIM Sync | Collaborative BIM Platform | `OAuth` | Yes | Unknown | [Go!](https://bimsync.com/developers) |
-| BIM Toolkit | Description | No | No | Unknown | [Go!](https://toolkit-api.thenbs.com) |
-| BIM Track | Description | No | No | Unknown | [Go!](http://bimtrack.co/en/resources/api) |
-| Bluebeam | Description | No | No | Unknown | [Go!](https://developers.bluebeam.com/articles/getting-started) |
+| BIM Toolkit | Uniclass Object Definition and Classification Information | `OAuth` | Yes | Unknown | [Go!](https://toolkit-api.thenbs.com) |
+| BIM Track | Collaborative BIM Platform | `apiKey` | Yes | Unknown | [Go!](https://api.bimtrackbeta.co/swagger/index#!/File/File_File_CreateCommentImage) |
+| Bluebeam | Description | `OAuth` | Yes | Unknown | [Go!](https://developers.bluebeam.com/articles/getting-started) |
 | Bosch MeasureON | Description | No | No | Unknown | [Go!](https://developer.bosch.com) |
 | Build Sim Hub | Description | `apiKey` | Yes | Yes | [Go!](https://raw.githubusercontent.com/weilix88/buildsimhub_python_api/master/bsh_openapi.yaml) |
-| Building Connected | Description | No | No | Unknown | [Go!](https://app.buildingconnected.com/docs/#introduction) |
+| Building Connected | Preconstruction tools | `OAuth` | Yes | Unknown | [Go!](https://app.buildingconnected.com/docs/#introduction) |
 | BuildingSMART - Data dictionary | Description | No | No | Unknown | [Go!](http://bsdd.buildingsmart.org/docs) |
 | Cl3ver | Description | No | No | Unknown | [Go!](https://www.cl3ver.com/developers-api) |
 | Cosential | Description | No | No | Unknown | [Go!](https://compass.cosential.com) |
