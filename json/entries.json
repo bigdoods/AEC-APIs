@@ -32,8 +32,8 @@
             "API": "Acuite",
             "Description": "Collaborative BIM Platform",
             "Auth": "apiKey",
-            "HTTPS": false,
-            "CORS": "Unknown",
+            "HTTPS": true,
+            "CORS": "No",
             "Link": "https://api.acuite.co.nz/swagger/ui/index",
             "Category": "AEC APIs"
         },
