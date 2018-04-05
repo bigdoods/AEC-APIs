@@ -1,5 +1,5 @@
 {
-    "count": 54,
+    "count": 56,
     "entries": [
         {
             "API": "3d io",
@@ -134,6 +134,24 @@
             "HTTPS": true,
             "CORS": "Unknown",
             "Link": "https://api.bimtrackbeta.co/swagger/index#!/File/File_File_CreateCommentImage",
+            "Category": "AEC APIs"
+        },
+        {
+            "API": "BIM360 Field",
+            "Description": "Construction checklists and reporting",
+            "Auth": "X-Mashape-Key",
+            "HTTPS": true,
+            "CORS": "Unknown",
+            "Link": "https://bim360field.autodesk.com/apidoc/index.html",
+            "Category": "AEC APIs"
+        },
+        {
+            "API": "BIM360 Glue",
+            "Description": "Constructability reviews and clash detection",
+            "Auth": "apiKey",
+            "HTTPS": true,
+            "CORS": "Unknown",
+            "Link": "https://b4.autodesk.com/api/doc/doc_api.shtml",
             "Category": "AEC APIs"
         },
         {
