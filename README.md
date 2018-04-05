@@ -19,8 +19,6 @@ API | Description | Auth | HTTPS | CORS | Link |
 | ArcGIS | Mapping tools | No | No | Unknown | [Go!](https://developers.arcgis.com/web-api) |
 | Asite | Collaborative BIM Platform (Closed docs) | No | No | Unknown | [Go!](https://upload.asite.com/dmshelp/About_API.htm) |
 | Basestone | Collaborative BIM Platform | No | No | Unknown | [Go!](https://api.basestone.io/api/v1) |
-| BIM360 Field | Construction checklists and reporting | `X-Mashape-Key` | Yes | Unknown | [Go!](https://bim360field.autodesk.com/apidoc/index.html) |
-| BIM360 Glue | Constructability reviews and clash detection | `apiKey` | Yes | Unknown | [Go!](https://b4.autodesk.com/api/doc/doc_api.shtml) |
 | BIM Data | Collaborative BIM Platform | `OAuth` | Yes | Unknown | [Go!](https://api.bimdata.io/api/doc) |
 | BIM Object | BIM Content (Closed docs) | No | No | Unknown | [Go!](https://developer.bimobject.com) |
 | BIM Plus | Collaborative BIM Platform | `OAuth` | Yes | Yes | [Go!](https://doc.bimplus.net/display/bimpluspublic/Introduction) |
@@ -29,6 +27,8 @@ API | Description | Auth | HTTPS | CORS | Link |
 | BIM Sync | Collaborative BIM Platform | `OAuth` | Yes | Unknown | [Go!](https://bimsync.com/developers) |
 | BIM Toolkit | Uniclass Object Definition and Classification Information | `OAuth` | Yes | Unknown | [Go!](https://toolkit-api.thenbs.com) |
 | BIM Track | Collaborative BIM Platform | `apiKey` | Yes | Unknown | [Go!](https://api.bimtrackbeta.co/swagger/index#!/File/File_File_CreateCommentImage) |
+| BIM360 Field | Construction checklists and reporting | `X-Mashape-Key` | Yes | Unknown | [Go!](https://bim360field.autodesk.com/apidoc/index.html) |
+| BIM360 Glue | Constructability reviews and clash detection | `apiKey` | Yes | Unknown | [Go!](https://b4.autodesk.com/api/doc/doc_api.shtml) |
 | Bluebeam | Description | `OAuth` | Yes | Unknown | [Go!](https://developers.bluebeam.com/articles/getting-started) |
 | Bosch MeasureON | Description | No | No | Unknown | [Go!](https://developer.bosch.com) |
 | Build Sim Hub | Envrionmental analysis | `apiKey` | Yes | Yes | [Go!](https://raw.githubusercontent.com/weilix88/buildsimhub_python_api/master/bsh_openapi.yaml) |
