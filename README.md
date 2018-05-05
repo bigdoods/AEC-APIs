@@ -27,8 +27,8 @@ API | Description | Auth | HTTPS | CORS | Link |
 | BIM Sync | Collaborative BIM Platform | `OAuth` | Yes | Unknown | [Go!](https://bimsync.com/developers) |
 | BIM Toolkit | Uniclass Object Definition and Classification Information | `OAuth` | Yes | Unknown | [Go!](https://toolkit-api.thenbs.com) |
 | BIM Track | Collaborative BIM Platform | `apiKey` | Yes | Unknown | [Go!](https://api.bimtrackbeta.co/swagger/index#!/File/File_File_CreateCommentImage) |
-| BIM360 Field | Construction checklists and reporting | `X-Mashape-Key` | Yes | Unknown | [Go!](https://bim360field.autodesk.com/apidoc/index.html) |
-| BIM360 Glue | Constructability reviews and clash detection | `apiKey` | Yes | Unknown | [Go!](https://b4.autodesk.com/api/doc/doc_api.shtml) |
+| BIM360 Field | Field management | `X-Mashape-Key` | Yes | Unknown | [Go!](https://bim360field.autodesk.com/apidoc/index.html) |
+| BIM360 Glue | Model coordination | `apiKey` | Yes | Unknown | [Go!](https://b4.autodesk.com/api/doc/doc_api.shtml) |
 | Bluebeam | Description | `OAuth` | Yes | Unknown | [Go!](https://developers.bluebeam.com/articles/getting-started) |
 | Bosch MeasureON | Description | No | No | Unknown | [Go!](https://developer.bosch.com) |
 | Build Sim Hub | Envrionmental analysis | `apiKey` | Yes | Yes | [Go!](https://raw.githubusercontent.com/weilix88/buildsimhub_python_api/master/bsh_openapi.yaml) |
@@ -44,6 +44,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Forge - BIM360 | Account level functionalities | `OAuth` | Yes | Unknown | [Go!](https://developer.autodesk.com/en/docs/bim360/v1) |
 | Forge - Data Management | Access data | `OAuth` | Yes | Unknown | [Go!](https://developer.autodesk.com/en/docs/data/v2/overview) |
 | Forge - Design Automation | Run scripts on files | `OAuth` | Yes | Unknown | [Go!](https://developer.autodesk.com/en/docs/design-automation/v2/overview) |
+| Forge - Issues | Access document issues, field issues and RFI's | `OAuth` | Yes | Unknown | [Go!](https://developer.autodesk.com/en/docs/issues/v1/overview/) |
 | Forge - Model Derivative | Convert files to other formats | `OAuth` | Yes | Unknown | [Go!](https://developer.autodesk.com/en/docs/model-derivative/v2/overview) |
 | Forge - Oauth | Authentication | `OAuth` | Yes | Unknown | [Go!](https://developer.autodesk.com/en/docs/oauth/v2/overview) |
 | Forge - Reality Capture | Photogrammetry service | `OAuth` | Yes | Unknown | [Go!](https://developer.autodesk.com/en/docs/reality-capture/v1/overview) |
