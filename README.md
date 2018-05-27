@@ -27,6 +27,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | BIM Sync | Collaborative BIM Platform | `OAuth` | Yes | Unknown | [Go!](https://bimsync.com/developers) |
 | BIM Toolkit | Uniclass Object Definition and Classification Information | `OAuth` | Yes | Unknown | [Go!](https://toolkit-api.thenbs.com) |
 | BIM Track | Collaborative BIM Platform | `apiKey` | Yes | Unknown | [Go!](https://api.bimtrackbeta.co/swagger/index#!/File/File_File_CreateCommentImage) |
+| BIM Track BCF | Collaborative BIM Platform | `apiKey` | Yes | Unknown | [Go!](https://bcfrestapi.bimtrackbeta.co/swagger/index#!/Project/Project_GetProjects) |
 | BIM360 Field | Field management | `X-Mashape-Key` | Yes | Unknown | [Go!](https://bim360field.autodesk.com/apidoc/index.html) |
 | BIM360 Glue | Model coordination | `apiKey` | Yes | Unknown | [Go!](https://b4.autodesk.com/api/doc/doc_api.shtml) |
 | Bluebeam | Description | `OAuth` | Yes | Unknown | [Go!](https://developers.bluebeam.com/articles/getting-started) |
