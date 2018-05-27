@@ -1,5 +1,5 @@
 {
-    "count": 57,
+    "count": 58,
     "entries": [
         {
             "API": "3d io",
@@ -134,6 +134,15 @@
             "HTTPS": true,
             "CORS": "Unknown",
             "Link": "https://api.bimtrackbeta.co/swagger/index#!/File/File_File_CreateCommentImage",
+            "Category": "AEC APIs"
+        },
+        {
+            "API": "BIM Track BCF",
+            "Description": "Collaborative BIM Platform",
+            "Auth": "apiKey",
+            "HTTPS": true,
+            "CORS": "Unknown",
+            "Link": "https://bcfrestapi.bimtrackbeta.co/swagger/index#!/Project/Project_GetProjects",
             "Category": "AEC APIs"
         },
         {
