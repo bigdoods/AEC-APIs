@@ -24,7 +24,8 @@ API | Description | Auth | HTTPS | CORS | Link |
 | BIM Plus | Collaborative BIM Platform | `OAuth` | Yes | Yes | [Go!](https://doc.bimplus.net/display/bimpluspublic/Introduction) |
 | BIM Server | Collaborative BIM Platform | `OAuth` | No | Unknown | [Go!](https://github.com/opensourceBIM/BIMserver/wiki/JSON-API) |
 | BIM Store | BIM Content | `apiKey` | Yes | Unknown | [Go!](http://developer.bimstore.co.uk) |
-| BIM Sync | Collaborative BIM Platform | `OAuth` | Yes | Unknown | [Go!](https://bimsync.com/developers) |
+| BIM Sync | Collaborative BIM Platform | `OAuth` | Yes | Unknown | [Go!](https://home.bimsync.com/api#rest-API) |
+| BIM Sync BCF | Collaborative BIM Platform | `OAuth` | Yes | Unknown | [Go!](https://bimsync.com/developers/reference/bcf/beta) |
 | BIM Toolkit | Uniclass Object Definition and Classification Information | `OAuth` | Yes | Unknown | [Go!](https://toolkit-api.thenbs.com) |
 | BIM Track | Collaborative BIM Platform | `apiKey` | Yes | Unknown | [Go!](https://api.bimtrackbeta.co/swagger/index#!/File/File_File_CreateCommentImage) |
 | BIM Track BCF | Collaborative BIM Platform | `apiKey` | Yes | Unknown | [Go!](https://bcfrestapi.bimtrackbeta.co/swagger/index#!/Project/Project_GetProjects) |
