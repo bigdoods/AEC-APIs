@@ -1,5 +1,5 @@
 {
-    "count": 58,
+    "count": 59,
     "entries": [
         {
             "API": "3d io",
@@ -115,7 +115,16 @@
             "Auth": "OAuth",
             "HTTPS": true,
             "CORS": "Unknown",
-            "Link": "https://bimsync.com/developers",
+            "Link": "https://home.bimsync.com/api#rest-API",
+            "Category": "AEC APIs"
+        },
+        {
+            "API": "BIM Sync BCF",
+            "Description": "Collaborative BIM Platform",
+            "Auth": "OAuth",
+            "HTTPS": true,
+            "CORS": "Unknown",
+            "Link": "https://bimsync.com/developers/reference/bcf/beta",
             "Category": "AEC APIs"
         },
         {
