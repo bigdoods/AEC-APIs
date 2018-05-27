@@ -1,5 +1,5 @@
 {
-    "count": 56,
+    "count": 57,
     "entries": [
         {
             "API": "3d io",
@@ -138,7 +138,7 @@
         },
         {
             "API": "BIM360 Field",
-            "Description": "Construction checklists and reporting",
+            "Description": "Field management",
             "Auth": "X-Mashape-Key",
             "HTTPS": true,
             "CORS": "Unknown",
@@ -147,7 +147,7 @@
         },
         {
             "API": "BIM360 Glue",
-            "Description": "Constructability reviews and clash detection",
+            "Description": "Model coordination",
             "Auth": "apiKey",
             "HTTPS": true,
             "CORS": "Unknown",
@@ -287,6 +287,15 @@
             "HTTPS": true,
             "CORS": "Unknown",
             "Link": "https://developer.autodesk.com/en/docs/design-automation/v2/overview",
+            "Category": "AEC APIs"
+        },
+        {
+            "API": "Forge - Issues",
+            "Description": "Access document issues, field issues and RFI's",
+            "Auth": "OAuth",
+            "HTTPS": true,
+            "CORS": "Unknown",
+            "Link": "https://developer.autodesk.com/en/docs/issues/v1/overview/",
             "Category": "AEC APIs"
         },
         {
