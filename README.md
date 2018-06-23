@@ -39,6 +39,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Cl3ver | Interactive 3D presentations (Browser API) | No | No | Unknown | [Go!](https://www.cl3ver.com/developers-api) |
 | Cosential | CRM and proposal automation | `apiKey` | No | Unknown | [Go!](https://compass.cosential.com) |
 | Dabox | Collaborative BIM platform | No | No | Unknown | [Go!](https://github.com/remyla/damas-core) |
+| Deltek vision | TBC Project-based services ERP | No | No | Unknown | [Go!](https://dsm.deltek.com/DeltekSoftwareManagerWebServices/downloadFile.ashx?documentid=E35B0BE0-8DEA-4B64-95D7-E56E43261325) |
 | Drone Deploy | Drone Flying, Mapping, Storage, and Sharing | `apiKey` | Yes | Unknown | [Go!](https://support.dronedeploy.com/docs/data-api-access) |
 | Fieldview | Field data, punch lists, daily logs, inspections | `apiKey` | Yes | Unknown | [Go!](http://mcsforum.info/wiki/index.php?title=Field_View_API_Documentation) |
 | Fieldwire | Field data, punch lists, daily logs, inspections | `apiKey` | No | Unknown | [Go!](http://apidocs.fieldwire.net) |
@@ -56,6 +57,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Matterport | 3D scanning (Browser API) | No | No | Unknown | [Go!](https://matterport.github.io/showcase-sdk/docs/) |
 | Maximo | Asset management | `apiKey` | Yes | Unknown | [Go!](https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/IBM%20Maximo%20Asset%20Management/page/Maximo%20JSON%20API) |
 | Microsoft Project | Project management | `OAuth` | Yes | Yes | [Go!](https://msdn.microsoft.com/en-us/library/office/jj712612.aspx) |
+| Newforma | TBC Project management | `OAuth` | Yes | Yes | [Go!](http://help.newforma.com/Newforma_Project_Center_Eleventh_Edition/desktop/Overviews/Info_Exchange_Overview.htm?rhsearch=api&rhsyns=%20) |
 | Okta SSO | Identity access management | `OAuth` | Yes | Unknown | [Go!](https://developer.okta.com/documentation) |
 | One Login SSO | Identity access management | `OAuth` | Yes | Unknown | [Go!](https://developers.onelogin.com) |
 | Openmaint | Asset management | No | No | Unknown | [Go!](http://www.cmdbuild.org/file/manuali/webservice-manual-in-english) |
@@ -70,4 +72,5 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Sitesense | Project management | No | No | Unknown | [Go!](https://www.intelliwavetechnologies.com/sitesense-developer-api) |
 | Speckle | Real time collaboration | `X-Mashape-Key` | No | Unknown | [Go!](https://github.com/speckleworks/SpeckleSpecs) |
 | Trimble connect | Project management | `X-Mashape-Key` | Yes | Unknown | [Go!](https://app.connect.trimble.com/tc/static/apidoc.html) |
+| Unicorn LMS | TBC Learning Managment System | `X-Mashape-Key` | Yes | Unknown | [Go!](https://xapi.com/docs-downloads/) |
 | Viewpoint | Project management | No | No | Unknown | [Go!](https://vfpdocs.viewpoint.com/VfP_topics_user/c_developer_doc.html) |
