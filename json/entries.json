@@ -1,5 +1,5 @@
 {
-    "count": 59,
+    "count": 62,
     "entries": [
         {
             "API": "3d io",
@@ -245,6 +245,15 @@
             "Category": "AEC APIs"
         },
         {
+            "API": "Deltek vision",
+            "Description": "TBC Project-based services ERP",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://dsm.deltek.com/DeltekSoftwareManagerWebServices/downloadFile.ashx?documentid=E35B0BE0-8DEA-4B64-95D7-E56E43261325",
+            "Category": "AEC APIs"
+        },
+        {
             "API": "Drone Deploy",
             "Description": "Drone Flying, Mapping, Storage, and Sharing",
             "Auth": "apiKey",
@@ -398,6 +407,15 @@
             "Category": "AEC APIs"
         },
         {
+            "API": "Newforma",
+            "Description": "TBC Project management",
+            "Auth": "OAuth",
+            "HTTPS": true,
+            "CORS": "Yes",
+            "Link": "http://help.newforma.com/Newforma_Project_Center_Eleventh_Edition/desktop/Overviews/Info_Exchange_Overview.htm?rhsearch=api&rhsyns=%20",
+            "Category": "AEC APIs"
+        },
+        {
             "API": "Okta SSO",
             "Description": "Identity access management",
             "Auth": "OAuth",
@@ -521,6 +539,15 @@
             "HTTPS": true,
             "CORS": "Unknown",
             "Link": "https://app.connect.trimble.com/tc/static/apidoc.html",
+            "Category": "AEC APIs"
+        },
+        {
+            "API": "Unicorn LMS",
+            "Description": "TBC Learning Managment System",
+            "Auth": "X-Mashape-Key",
+            "HTTPS": true,
+            "CORS": "Unknown",
+            "Link": "https://xapi.com/docs-downloads/",
             "Category": "AEC APIs"
         },
         {
