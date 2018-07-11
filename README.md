@@ -53,6 +53,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Forge - Oauth | Authentication | `OAuth` | Yes | Unknown | [Go!](https://developer.autodesk.com/en/docs/oauth/v2/overview) |
 | Forge - Reality Capture | Photogrammetry service | `OAuth` | Yes | Unknown | [Go!](https://developer.autodesk.com/en/docs/reality-capture/v1/overview) |
 | Forge - Webhook | Callback on events | `OAuth` | Yes | Unknown | [Go!](https://developer.autodesk.com/en/docs/webhooks/v1/overview/basics) |
+| Glider BIM | Projenct managment | No | No | Unknown | [Go!](https://www.gliderbim.com/) |
 | GoBIM | Product data | No | No | Unknown | [Go!](http://gobim.com/api) |
 | Hangar Job Sight | Robotics as a System | `OAuth` | No | Unknown | [Go!](https://hangar.com/developer) |
 | Matterport | 3D scanning (Browser API) | No | No | Unknown | [Go!](https://matterport.github.io/showcase-sdk/docs/) |
