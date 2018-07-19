@@ -67,7 +67,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Ordnance Survey - Names | Verify UK places, road names, numbers and postcodes | `apiKey` | Yes | Unknown | [Go!](https://apidocs.os.uk/docs/os-names-overview) |
 | Ordnance Survey - Places | UK address data | `apiKey` | Yes | Unknown | [Go!](https://apidocs.os.uk/docs/os-places-overview) |
 | Plangrid | Field data, punch lists, daily logs, inspections | `apiKey` | Yes | Unknown | [Go!](https://developer.plangrid.com/docs) |
-| Primavera | Project management | No | No | Unknown | [Go!](https://docs.oracle.com/cd/E16281_01/Technical_Documentation/Integration_API/ProgrammerReference.html) |
+| Primavera p6 | Project management | No | No | Unknown | [Go!](https://docs.oracle.com/cd/E16281_01/Technical_Documentation/Integration_API/ProgrammerReference.html) |
 | Procore | Project management | `OAuth` | Yes | Unknown | [Go!](https://developers.procore.com/documentation/introduction) |
 | Raken | Field data, punch lists, daily logs, inspections | `OAuth` | Yes | Unknown | [Go!](https://stage.rakenapp.com/developer-api-docs) |
 | Shapediver | Paramtetric design explorer (Browser API) | No | No | Unknown | [Go!](https://shapediver.com/api) |
