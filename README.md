@@ -73,6 +73,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Shapediver | Paramtetric design explorer (Browser API) | No | No | Unknown | [Go!](https://shapediver.com/api) |
 | Sitesense | Project management | No | No | Unknown | [Go!](https://www.intelliwavetechnologies.com/sitesense-developer-api) |
 | Speckle | Real time collaboration | `X-Mashape-Key` | No | Unknown | [Go!](https://github.com/speckleworks/SpeckleSpecs) |
+| Total Synergy | Project Management | `OAuth` | Yes | Unknown | [Go!](https://developers.totalsynergy.com/) |
 | Trimble connect | Project management | `X-Mashape-Key` | Yes | Unknown | [Go!](https://app.connect.trimble.com/tc/static/apidoc.html) |
 | Unicorn LMS | TBC Learning Managment System | `X-Mashape-Key` | Yes | Unknown | [Go!](https://xapi.com/docs-downloads/) |
 | Viewpoint | Project management | No | No | Unknown | [Go!](https://vfpdocs.viewpoint.com/VfP_topics_user/c_developer_doc.html) |
