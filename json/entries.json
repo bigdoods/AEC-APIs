@@ -1,5 +1,5 @@
 {
-    "count": 62,
+    "count": 64,
     "entries": [
         {
             "API": "3d io",
@@ -263,12 +263,21 @@
             "Category": "AEC APIs"
         },
         {
+            "API": "Ecodomus",
+            "Description": "Common Data Environment",
+            "Auth": "apiKey",
+            "HTTPS": true,
+            "CORS": "Unknown",
+            "Link": "http://ecodomus.com/products/bim-api/",
+            "Category": "AEC APIs"
+        },
+        {
             "API": "Fieldview",
             "Description": "Field data, punch lists, daily logs, inspections",
             "Auth": "apiKey",
             "HTTPS": true,
             "CORS": "Unknown",
-            "Link": "http://mcsforum.info/wiki/index.php?title=Field_View_API_Documentation",
+            "Link": "https://fvdocs.viewpoint.com/Admin_web_topics/APIs/c_APIs.html",
             "Category": "AEC APIs"
         },
         {
@@ -359,6 +368,15 @@
             "HTTPS": true,
             "CORS": "Unknown",
             "Link": "https://developer.autodesk.com/en/docs/webhooks/v1/overview/basics",
+            "Category": "AEC APIs"
+        },
+        {
+            "API": "Glider BIM",
+            "Description": "Projenct managment",
+            "Auth": null,
+            "HTTPS": false,
+            "CORS": "Unknown",
+            "Link": "https://www.gliderbim.com/",
             "Category": "AEC APIs"
         },
         {
@@ -479,7 +497,7 @@
             "Category": "AEC APIs"
         },
         {
-            "API": "Primavera",
+            "API": "Primavera p6",
             "Description": "Project management",
             "Auth": null,
             "HTTPS": false,
