@@ -1,5 +1,5 @@
 {
-    "count": 64,
+    "count": 65,
     "entries": [
         {
             "API": "3d io",
@@ -548,6 +548,15 @@
             "HTTPS": false,
             "CORS": "Unknown",
             "Link": "https://github.com/speckleworks/SpeckleSpecs",
+            "Category": "AEC APIs"
+        },
+        {
+            "API": "Total Synergy",
+            "Description": "Project Management",
+            "Auth": "OAuth",
+            "HTTPS": true,
+            "CORS": "Unknown",
+            "Link": "https://developers.totalsynergy.com/",
             "Category": "AEC APIs"
         },
         {
