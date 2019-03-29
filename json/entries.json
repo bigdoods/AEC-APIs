@@ -142,7 +142,7 @@
             "Auth": "apiKey",
             "HTTPS": true,
             "CORS": "Unknown",
-            "Link": "https://api.bimtrackbeta.co/swagger/index#!/File/File_File_CreateCommentImage",
+            "Link": "https://api.bimtrackbeta.co//swagger/ui/index#!/",
             "Category": "AEC APIs"
         },
         {
